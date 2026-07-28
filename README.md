@@ -173,12 +173,14 @@ Building scalable software, intelligent systems, and real-world AI applications.
 
 # 🐍 Contribution Snake
 
-> Enable GitHub Actions later to generate the contribution snake.
+<p align="center">
 
-```yaml
-# Placeholder
-# We'll configure this in the next step.
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rsvr76/rsvr76/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/rsvr76/rsvr76/output/github-contribution-grid-snake.svg">
+</picture>
+
+</p>
 
 ---
 
