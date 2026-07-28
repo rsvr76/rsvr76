@@ -98,31 +98,23 @@ Building scalable software, intelligent systems, and real-world AI applications.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rsvr76">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="https://leetcode.com/u/rsvr76/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="https://www.kaggle.com/rsvr76">
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="48"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://codeforces.com/profile/rsvr76">
-<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="48"/>
+<img src="https://img.shields.io/badge/Codeforces-2563EB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-&nbsp
-
 <a href="mailto:vishnuramrs07@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
