@@ -29,7 +29,7 @@ Building scalable software, intelligent systems, and real-world AI applications.
 </a>
 </p>
 
----
+<br>
 
 <h2 align="center"> About Me</h2>
 
@@ -47,7 +47,7 @@ Building scalable software, intelligent systems, and real-world AI applications.
 
 </p>
 
----
+<br>
 
 <h2 align="center">Tech Stack</h2>
 
@@ -57,7 +57,7 @@ Building scalable software, intelligent systems, and real-world AI applications.
 
 </p>
 
----
+<br>
 
 <h2 align="center">GitHub Activity</h2>
 
@@ -68,12 +68,12 @@ Building scalable software, intelligent systems, and real-world AI applications.
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rsvr76&theme=github-compact&hide_border=true"/>
-
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsvr76&bg_color=0d1117&color=60A5FA&line=2563EB&point=60A5FA&area=true&hide_border=true&title_color=FFFFFF&area_color=2563EB"/>
+  
 </p>
 
----
+<br>
 
 <h2 align="center">Featured Projects</h2>
 
@@ -91,7 +91,7 @@ Building scalable software, intelligent systems, and real-world AI applications.
 
 </p>
 
----
+<br>
 
 <h2 align="center"> Connect With Me</h2>
 
@@ -101,17 +101,25 @@ Building scalable software, intelligent systems, and real-world AI applications.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+&nbsp;
+
 <a href="https://leetcode.com/u/rsvr76/">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.kaggle.com/rsvr76">
 <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="48"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://codeforces.com/profile/rsvr76">
 <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="48"/>
 </a>
+
+&nbsp
 
 <a href="mailto:vishnuramrs07@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -119,9 +127,9 @@ Building scalable software, intelligent systems, and real-world AI applications.
 
 </p>
 
----
+<br>
 
-<h2 align="center">Contribution Snake</h2>
+<h2 align="center">Contribution Graph</h2>
 
 <p align="center">
 
@@ -132,7 +140,7 @@ Building scalable software, intelligent systems, and real-world AI applications.
 
 </p>
 
----
+<br>
 
 <p align="center">
 
