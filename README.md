@@ -3,139 +3,218 @@
   <img alt="Vishnu Ram R S Banner" src="art/header-light.png">
 </picture>
 
-<h1 align="center">Hi 👋, I'm Vishnu Ram R S</h1>
-
-<h3 align="center">
-Aspiring Software Engineer • AI • Machine Learning
-</h3>
+<br><br>
 
 <p align="center">
-Building scalable software, intelligent systems, and real-world AI applications.
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Designing+Scalable+Software;Backend+Development;Learning+Something+New+Every+Day"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Backend+Developer;Open+Source+Learner;Always+Learning+Something+New" />
+Building intelligent software with <strong>Artificial Intelligence</strong>,
+<strong>Machine Learning</strong>, and modern <strong>Software Engineering</strong>.
 </p>
 
+<br><br>
+
+<h2 align="center">🚀 About Me</h2>
+
 <p align="center">
-<a href="https://github.com/rsvr76">
-<img src="https://img.shields.io/github/followers/rsvr76?style=for-the-badge&label=Followers&color=2563EB">
+I'm an <strong>Electrical & Electronics Engineering</strong> undergraduate passionate about
+building software that combines AI, Machine Learning, and scalable backend systems.
+I enjoy turning ideas into practical, real-world solutions through continuous learning
+and hands-on development.
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=java" width="40"/>
+
+**Software Engineering**
+
+Designing clean, scalable software.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=pytorch" width="40"/>
+
+**Artificial Intelligence**
+
+Developing intelligent applications.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=fastapi" width="40"/>
+
+**Backend Development**
+
+Building APIs and automation tools.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+
+**Continuous Learning**
+
+Always exploring new technologies.
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<h2 align="center">💼 Featured Work</h2>
+
+<p align="center">
+Projects that reflect my interests in Software Engineering, AI, and Machine Learning.
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏆 CAD-to-Quote AI Agent
+
+AI-assisted manufacturing cost estimation from STEP CAD files using explainable machine learning.
+
+**Stack**
+
+`Python` `OpenCascade` `Scikit-learn` `SHAP`
+
+<br>
+
+<a href="https://github.com/rsvr76/CAD-to-Quote-AI-Agent">
+View Repository →
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=rsvr76&style=for-the-badge&color=2563EB">
+</td>
 
-<a href="https://github.com/rsvr76?tab=repositories">
-<img src="https://img.shields.io/github/stars/rsvr76?affiliations=OWNER&style=for-the-badge&color=2563EB">
-</a>
-</p>
+<td width="50%" valign="top">
 
-<br>
+### 🚨 Crisis Commander
 
-<h2 align="center"> About Me</h2>
+AI-powered emergency response platform converting voice calls into actionable incident reports.
 
-<p align="center">
+**Stack**
 
-🎓 Electrical & Electronics Engineering Student
-
-💻 Aspiring Software Engineer
-
-🤖 Interested in Artificial Intelligence, Machine Learning & Backend Development
-
-🌱 Currently learning Data Structures & Algorithms, System Design and LLM Applications
-
-🏆 Building projects that solve real-world problems
-
-</p>
+`Python` `FastAPI` `Gemini API`
 
 <br>
 
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,fastapi,docker,git,github,linux,vscode"/>
-
-</p>
-
-<br>
-
-<h2 align="center">GitHub Activity</h2>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rsvr76&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsvr76&bg_color=0d1117&color=60A5FA&line=2563EB&point=60A5FA&area=true&hide_border=true&title_color=FFFFFF&area_color=2563EB"/>
-  
-</p>
-
-<br>
-
-<h2 align="center">Featured Projects</h2>
-
-<p align="center">
-
-⭐ CAD-to-Quote AI Pipeline
-
-⭐ Urban Flood Prediction
-
-⭐ Crisis Commander
-
-⭐ Ocean Depths Odyssey
-
-⭐ Smart Home Automation
-
-</p>
-
-<br>
-
-<h2 align="center"> Connect With Me</h2>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rsvr76">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/rsvr76/Crisis-Commander">
+View Repository →
 </a>
 
-<a href="https://leetcode.com/u/rsvr76/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌊 Ocean Depths Odyssey
+
+Interactive web experience visualizing Earth's oceans from the surface to Challenger Deep.
+
+**Stack**
+
+`React` `TypeScript`
+
+<br>
+
+<a href="https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey">
+View Repository →
 </a>
 
-<a href="https://www.kaggle.com/rsvr76">
+</td>
+
+<td></td>
+
+</tr>
+</table>
+
+<br><br>
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,fastapi,react,typescript,docker,git,github,linux,vscode" />
+</p>
+
+<br><br>
+
+<h2 align="center">📈 GitHub Activity</h2>
+
+<p align="center">
+<img
+height="180"
+src="https://streak-stats.demolab.com?user=rsvr76&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=rsvr76&bg_color=0d1117&color=ffffff&line=2563EB&point=60A5FA&area=true&area_color=2563EB&hide_border=true&title_color=ffffff"/>
+</p>
+
+<br><br>
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/rsvr76">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/rsvr76">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://kaggle.com/rsvr76">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 <a href="https://codeforces.com/profile/rsvr76">
-<img src="https://img.shields.io/badge/Codeforces-2563EB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
 </a>
 
 <a href="mailto:vishnuramrs07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-<br>
+<br><br>
 
-<h2 align="center">Contribution Graph</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rsvr76/rsvr76/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/rsvr76/rsvr76/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rsvr76/rsvr76/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rsvr76/rsvr76/output/github-contribution-grid-snake.svg">
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/rsvr76/rsvr76/output/github-contribution-grid-snake.svg">
 </picture>
 
 </p>
 
-<br>
+<br><br>
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=120&section=footer"/>
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:60A5FA&section=footer"/>
