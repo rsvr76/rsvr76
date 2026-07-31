@@ -19,63 +19,49 @@ Building intelligent software with <strong>Artificial Intelligence</strong>,
 
 <br><br>
 
+<!-- ========================================================= -->
+<!-- 2. ABOUT ME -->
+<!-- ========================================================= -->
+
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-I'm an <strong>Electrical & Electronics Engineering</strong> undergraduate passionate about
-building software that combines AI, Machine Learning, and scalable backend systems.
-I enjoy turning ideas into practical, real-world solutions through continuous learning
-and hands-on development.
+  I'm an <strong>Electrical & Electronics Engineering</strong> undergraduate
+  with a passion for building software at the intersection of
+  <strong>Artificial Intelligence</strong>,
+  <strong>Machine Learning</strong>, and
+  <strong>Software Engineering</strong>.
+</p>
+
+<p align="center">
+  I enjoy turning ideas into reliable software—from intelligent ML systems
+  to scalable backend applications—and I'm always looking for opportunities
+  to learn, build, and solve meaningful problems.
 </p>
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java" width="40"/>
+<strong>Software Engineering</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<strong>Artificial Intelligence</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<strong>Backend Development</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<strong>Open Source</strong>
 
-**Software Engineering**
+</p>
 
-Designing clean, scalable software.
+<br>
 
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=pytorch" width="40"/>
-
-**Artificial Intelligence**
-
-Developing intelligent applications.
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=fastapi" width="40"/>
-
-**Backend Development**
-
-Building APIs and automation tools.
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
-
-**Continuous Learning**
-
-Always exploring new technologies.
-
-</td>
-</tr>
-</table>
+<p align="center">
+<i>
+"Building software that makes ideas useful."
+</i>
+</p>
 
 <br><br>
-
 <h2 align="center">💼 Featured Work</h2>
 
 <p align="center">
