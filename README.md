@@ -21,7 +21,7 @@ Turning ideas into intelligent software through AI, Machine Learning, and clean 
 <!-- 2. ABOUT ME -->
 <!-- ========================================================= -->
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <p align="center">
 I'm an <strong>Electrical & Electronics Engineering</strong> undergraduate passionate about building software that combines
@@ -55,7 +55,7 @@ automation, and continuous learning.
 <!-- 3. FEATURED WORK -->
 <!-- ========================================================= -->
 
-<h2 align="center">💼 Featured Work</h2>
+<h2 align="center"> Featured Work</h2>
 
 <p align="center">
 A few projects that showcase my interests in Software Engineering,
@@ -64,7 +64,7 @@ Artificial Intelligence, and Machine Learning.
 
 ---
 
-### 🏆 CAD-to-Quote AI Agent
+###  CAD-to-Quote AI Agent
 
 AI-assisted manufacturing cost estimation from STEP CAD files using explainable machine learning.
 
@@ -78,7 +78,7 @@ https://github.com/rsvr76/CAD-to-Quote-AI-Agent
 
 ---
 
-### 🚨 Crisis Commander
+###  Crisis Commander
 
 AI-powered emergency response platform that converts voice calls into actionable incident reports.
 
@@ -92,7 +92,7 @@ https://github.com/rsvr76/Crisis-Commander
 
 ---
 
-### 🌊 Ocean Depths Odyssey
+###  Ocean Depths Odyssey
 
 Interactive web experience visualizing Earth's oceans from sea level to Challenger Deep.
 
@@ -110,7 +110,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 <!-- 4. TECH STACK -->
 <!-- ========================================================= -->
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,fastapi,react,typescript,docker,git,github,linux,vscode"/>
@@ -122,7 +122,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 <!-- 5. DEVELOPMENT ACTIVITY -->
 <!-- ========================================================= -->
 
-<h2 align="center">📊 Development Activity</h2>
+<h2 align="center"> Development Activity</h2>
 
 <p align="center">
 Building consistently and contributing to projects over time.
@@ -138,7 +138,7 @@ Building consistently and contributing to projects over time.
 <!-- 6. LET'S CONNECT -->
 <!-- ========================================================= -->
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center"> Let's Connect</h2>
 
 <p align="center">
 
@@ -170,7 +170,7 @@ Building consistently and contributing to projects over time.
 <!-- 7. CONTRIBUTION SNAKE -->
 <!-- ========================================================= -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center"> Contribution Snake</h2>
 
 <p align="center">
 
