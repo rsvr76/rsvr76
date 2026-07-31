@@ -15,7 +15,7 @@
 Turning ideas into intelligent software through AI, Machine Learning, and clean engineering.
 </p>
 
-<br><br>
+<br>
 
 <!-- ========================================================= -->
 <!-- 2. ABOUT ME -->
@@ -24,7 +24,7 @@ Turning ideas into intelligent software through AI, Machine Learning, and clean 
 <h2 align="center"> About Me</h2>
 
 <p align="center">
-I'm an <strong>Electrical & Electronics Engineering</strong> undergraduate passionate about building software that combines
+I'm an <strong>EEE</strong> undergraduate passionate about building software that combines
 Artificial Intelligence, Machine Learning, and modern Software Engineering.
 </p>
 
