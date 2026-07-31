@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-  <img alt="Vishnu Ram R S Banner" src="art/header-light.png">
-</picture>
-
-<br><br>
 
 <!-- ========================================================= -->
 <!-- 1. HERO -->
