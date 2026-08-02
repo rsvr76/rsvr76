@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&lines=Building+AI+Applications;Designing+Scalable+Software;Backend+Development;Always+Learning"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&lines=Building+AI+Applications;Designing+Scalable+Software;Learning.+Building.+Shipping.;Open+Source+Contributor;Always+Curious.+Always+Learning"/>
 </p>
 
 <p align="center">
-Turning ideas into intelligent software through AI, Machine Learning, and clean engineering.
+From Complex Problems to Elegant Solutions
 </p>
 
 <br>
@@ -61,8 +61,6 @@ automation, and continuous learning.
 A few projects that showcase my interests in Software Engineering,
 Artificial Intelligence, and Machine Learning.
 </p>
-
----
 
 ###  CAD-to-Quote AI Agent
 
