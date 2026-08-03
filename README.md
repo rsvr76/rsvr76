@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&lines=Building+AI+Applications;Designing+Scalable+Software;Learning.+Building.+Shipping.;Open+Source+Contributor;Always+Curious.+Always+Learning"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&lines=Building+AI+Applications;Designing+Scalable+Software;Learning.+Building.+Shipping.;Open+Source+Contributor;Always+Curious.+Always+Learning."/>
 </p>
 
 <p align="center">
