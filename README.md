@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&lines=Building+AI+Applications;Designing+Scalable+Software;Learning.+Building.+Shipping.;Open+Source+Contributor;Always+Curious.+Always+Learning."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&lines=Building+Production-Ready+Software;Designing+Maintainable+Systems;Problem+Solving+Through+Code;Open+Source+Contributor;Engineering+Real-World+Solutions;Delivering+Practical+Solutions;Creating+Technology+with+Impact"/>
 </p>
 
 <p align="center">
-From Complex Problems to Elegant Solutions
+Thoughtfully Designed. Carefully Engineered.
 </p>
 
 <br>
@@ -24,28 +24,27 @@ From Complex Problems to Elegant Solutions
 <h2 align="center"> About Me</h2>
 
 <p align="center">
-I'm an <strong>EEE</strong> undergraduate passionate about building software that combines
-Artificial Intelligence, Machine Learning, and modern Software Engineering.
+I'm an aspiring Software Engineer passionate about building reliable software that solves real-world problems.
 </p>
 
 <p align="center">
-I enjoy solving real-world problems through backend development, intelligent systems,
-automation, and continuous learning.
+I enjoy developing backend systems, intelligent applications, and practical tools that transform ideas into meaningful solutions.
+
 </p>
 
 <br>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Software_Engineering-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Problem_Solver-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆_Hackathon_Winner-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Machine_Learning-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌍_Open_Source_Contributor-059669?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Backend_Development-EA580C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📚_Continuous_Learner-EA580C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open_Source-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💡_Product_Mindset-111827?style=for-the-badge"/>
 
 </p>
 
@@ -108,11 +107,11 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 <!-- 4. TECH STACK -->
 <!-- ========================================================= -->
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <br>
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p>
 
@@ -124,7 +123,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 
 <br>
 
-### 🤖 Artificial Intelligence & Machine Learning
+###  Artificial Intelligence & Machine Learning
 
 <p>
 
@@ -136,7 +135,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 
 <br>
 
-### ⚙️ Backend Development
+###  Backend Development
 
 <p>
 
@@ -146,7 +145,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 
 <br>
 
-### 🌐 Web Development
+###  Web Development
 
 <p>
 
@@ -159,7 +158,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 
 <br>
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 
 <p>
 
