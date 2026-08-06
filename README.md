@@ -121,7 +121,6 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 </p>
 
 
-
 ### 🤖 Artificial Intelligence & Machine Learning
 
 <p>
@@ -160,6 +159,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 <img src="https://skillicons.dev/icons?i=linux" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
+
 
 <!-- 5. DEVELOPMENT ACTIVITY -->
 <!-- ========================================================= -->
