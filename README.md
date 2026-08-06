@@ -108,7 +108,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 <!-- 4. TECH STACK -->
 <!-- ========================================================= -->
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <br>
 
@@ -120,7 +120,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
----
+
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
@@ -130,7 +130,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" height="48"/>
 </p>
 
----
+
 
 ### ⚙️ Backend Development
 
@@ -138,7 +138,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
----
+
 
 ### 🌐 Web Development
 
@@ -149,7 +149,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
----
+
 
 ### 🛠 Tools & Platforms
 
