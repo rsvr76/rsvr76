@@ -108,15 +108,59 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 <!-- 4. TECH STACK -->
 <!-- ========================================================= -->
 
-<h2 align="center"> Tech Stack</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,fastapi,react,typescript,docker,git,github,linux,vscode"/>
+<br>
+
+### 🔗 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-<br><br>
+---
 
-<!-- ========================================================= -->
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" height="48"/>
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
+
+---
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
 <!-- 5. DEVELOPMENT ACTIVITY -->
 <!-- ========================================================= -->
 
