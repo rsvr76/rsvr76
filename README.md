@@ -108,58 +108,70 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 <!-- 4. TECH STACK -->
 <!-- ========================================================= -->
 
-<h2 align="center"> Tech Stack</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
 <br>
 
-### 🔗 Programming Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=java" />
+
+<img src="https://skillicons.dev/icons?i=python" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=cpp" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=java" hspace="6"/>
+
 </p>
 
+<br>
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch" />
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+<img src="https://skillicons.dev/icons?i=pytorch" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" hspace="6"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" height="48"/>
+
 </p>
 
-
+<br>
 
 ### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi" />
+
+<img src="https://skillicons.dev/icons?i=fastapi" hspace="6"/>
+
 </p>
 
-
+<br>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=typescript" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
+
+<img src="https://skillicons.dev/icons?i=react" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=typescript" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=html" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=css" hspace="6"/>
+
 </p>
 
+<br>
 
-
-### 🛠 Tools & Platforms
+### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+
+<img src="https://skillicons.dev/icons?i=git" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=github" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=docker" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=linux" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=vscode" hspace="6"/>
+
 </p>
 
+<br><br>
 
 <!-- 5. DEVELOPMENT ACTIVITY -->
 <!-- ========================================================= -->
