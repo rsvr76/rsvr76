@@ -53,58 +53,162 @@ and continuously taking on problems that push me to become a better engineer.
 
 <br><br>
 
-<!-- ========================================================= -->
-<!-- 3. FEATURED WORK -->
-<!-- ========================================================= -->
+<!-- ============================================================
+     6. FEATURED WORK
+     ============================================================ -->
 
-<h2 align="center"> Featured Work</h2>
+<h2 align="center">💼 Featured Work</h2>
 
 <p align="center">
-Selected projects demonstrating my experience building AI-powered applications, automated pipelines, and practical software systems.
+Selected projects showcasing AI systems, intelligent automation,
+machine learning pipelines, and practical software engineering.
 </p>
 
-###  CAD-to-Quote AI Agent
+<br>
 
-AI-assisted manufacturing cost estimation from STEP CAD files using explainable machine learning.
+<table align="center">
+<tr>
 
-**Tech Stack**
+<td width="50%" valign="top">
 
-`Python` `OpenCascade` `Scikit-learn` `SHAP`
+<h3>🏆 CAD-to-Quote AI Agent</h3>
 
-🔗 **Repository**
+<p>
+AI-assisted manufacturing cost estimation system that transforms
+STEP CAD geometry into an explainable production quote.
+</p>
 
-https://github.com/rsvr76/CAD-to-Quote-AI-Agent
+<p>
+The pipeline combines geometry extraction, process routing,
+stock estimation, machine-learning prediction, cost analysis,
+confidence estimation, and explainability.
+</p>
 
----
+<p><strong>Stack</strong></p>
 
-###  Crisis Commander
+<p>
+<code>Python</code>
+<code>FastAPI</code>
+<code>OpenCascade</code>
+<code>Scikit-learn</code>
+<code>SHAP</code>
+</p>
 
-AI-powered emergency response platform that converts voice calls into actionable incident reports.
+<p>
+<a href="https://github.com/rsvr76/CAD-to-Quote-AI-Agent">
+View Repository →
+</a>
+</p>
 
-**Tech Stack**
+</td>
 
-`Python` `FastAPI` `Gemini API`
+<td width="50%" valign="top">
 
-🔗 **Repository**
+<h3>🚨 Crisis Commander</h3>
 
-https://github.com/rsvr76/Crisis-Commander
+<p>
+AI-powered crisis management backend that transforms chaotic
+voice-based incident reports into structured, actionable workflows.
+</p>
 
----
+<p>
+Uses an LLM to extract actions and urgency, then automates
+task creation, team notifications, and client communication
+through external APIs.
+</p>
 
-###  Ocean Depths Odyssey
+<p><strong>Stack</strong></p>
 
-Interactive web experience visualizing Earth's oceans from sea level to Challenger Deep.
+<p>
+<code>Python</code>
+<code>FastAPI</code>
+<code>Gemini API</code>
+<code>Asana</code>
+<code>Slack</code>
+</p>
 
-**Tech Stack**
+<p>
+<a href="https://github.com/rsvr76/Crisis-Commander">
+View Repository →
+</a>
+</p>
 
-`React` `TypeScript`
+</td>
 
-🔗 **Repository**
+</tr>
 
-https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
+<tr>
 
-<br><br>
+<td width="50%" valign="top">
 
+<h3>🧠 Novel Backstory Consistency Classification</h3>
+
+<p>
+Long-context narrative reasoning system that determines whether
+a hypothetical character backstory is consistent with a complete
+novel.
+</p>
+
+<p>
+Combines persistent state, sparse updates, incremental belief
+formation, semantic embeddings, evidence retrieval, and
+hybrid neural-rule-based classification.
+</p>
+
+<p><strong>Stack</strong></p>
+
+<p>
+<code>Python</code>
+<code>PyTorch</code>
+<code>SentenceTransformers</code>
+<code>Scikit-learn</code>
+</p>
+
+<p>
+<a href="https://github.com/rsvr76/Novel-Backstory-Consistency-Classification">
+View Repository →
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌊 UrbanFloodBench</h3>
+
+<p>
+Hybrid machine-learning pipeline for autoregressive flood
+prediction across coupled urban drainage and surface networks.
+</p>
+
+<p>
+Combines LightGBM with ARX Ridge models, graph-based features,
+temporal forecasting, rainfall features, and physics-informed
+stability constraints.
+</p>
+
+<p><strong>Stack</strong></p>
+
+<p>
+<code>Python</code>
+<code>LightGBM</code>
+<code>Scikit-learn</code>
+<code>Pandas</code>
+<code>NumPy</code>
+</p>
+
+<p>
+<a href="https://github.com/rsvr76/UrbanFloodBench">
+View Repository →
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 <!-- ========================================================= -->
 <!-- 4. TECH STACK -->
 <!-- ========================================================= -->
