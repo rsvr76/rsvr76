@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&lines=Building+Production-Ready+Software;Designing+Maintainable+Systems;Problem+Solving+Through+Code;Open+Source+Contributor;Engineering+Real-World+Solutions;Delivering+Practical+Solutions;Creating+Technology+with+Impact"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=760&lines=Building+Production-Ready+Software;Designing+Maintainable+Systems;Automating+Developer+Workflows;Open+Source+Contributor;Exploring+Agentic+AI+Systems;Delivering+Practical+Solutions;Engineering+Real-World+Solutions"/>
 </p>
 
 <p align="center">
-Thoughtfully Designed. Carefully Engineered.
+Engineering ideas into reliable software.
 </p>
 
 <br>
@@ -24,12 +24,19 @@ Thoughtfully Designed. Carefully Engineered.
 <h2 align="center"> About Me</h2>
 
 <p align="center">
-I'm an aspiring Software Engineer passionate about building reliable software that solves real-world problems.
+I'm an aspiring <strong>Software Engineer</strong> who enjoys turning
+real-world problems into practical, reliable software.
 </p>
 
 <p align="center">
-I enjoy developing backend systems, intelligent applications, and practical tools that transform ideas into meaningful solutions.
+I build AI-powered applications, automated pipelines, and backend systems,
+while exploring how intelligent tools can make complex engineering workflows
+simpler and more efficient.
+</p>
 
+<p align="center">
+I learn by building, competing in hackathons, contributing to open source,
+and continuously taking on problems that push me to become a better engineer.
 </p>
 
 <br>
@@ -37,14 +44,10 @@ I enjoy developing backend systems, intelligent applications, and practical tool
 <p align="center">
 
 <img src="https://img.shields.io/badge/🚀_Problem_Solver-2563EB?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/🏆_Hackathon_Winner-7C3AED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/🌍_Open_Source_Contributor-059669?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/📚_Continuous_Learner-EA580C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/💡_Product_Mindset-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚙️_Automation_Minded-EA580C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_AI_Builder-111827?style=for-the-badge"/>
 
 </p>
 
@@ -57,8 +60,7 @@ I enjoy developing backend systems, intelligent applications, and practical tool
 <h2 align="center"> Featured Work</h2>
 
 <p align="center">
-A few projects that showcase my interests in Software Engineering,
-Artificial Intelligence, and Machine Learning.
+Selected projects demonstrating my experience building AI-powered applications, automated pipelines, and practical software systems.
 </p>
 
 ###  CAD-to-Quote AI Agent
@@ -178,7 +180,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 <h2 align="center"> Development Activity</h2>
 
 <p align="center">
-Building consistently and contributing to projects over time.
+Building, experimenting, and contributing across software and AI projects.
 </p>
 
 <p align="center">
