@@ -57,7 +57,7 @@ and continuously taking on problems that push me to become a better engineer.
      6. FEATURED WORK
      ============================================================ -->
 
-<h2 align="center">💼 Featured Work</h2>
+<h2 align="center"> Featured Work</h2>
 
 <p align="center">
 Selected projects showcasing AI systems, intelligent automation,
@@ -217,7 +217,7 @@ View Repository →
 
 <br>
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p>
 
@@ -229,7 +229,7 @@ View Repository →
 
 <br>
 
-### 🤖 Artificial Intelligence & Machine Learning
+###  Artificial Intelligence & Machine Learning
 
 <p>
 
@@ -241,7 +241,7 @@ View Repository →
 
 <br>
 
-### 🧠 LLM & AI Systems
+###  LLM & AI Systems
 
 <p>
 
@@ -253,7 +253,7 @@ View Repository →
 
 <br>
 
-### ⚙️ Backend & APIs
+###  Backend & APIs
 
 <p>
 
@@ -263,7 +263,7 @@ View Repository →
 
 <br>
 
-### 🔄 CI/CD & Automation
+###  CI/CD & Automation
 
 <p>
 
@@ -276,7 +276,7 @@ View Repository →
 
 <br>
 
-### 🛠 Development Tools
+###  Development Tools
 
 <p>
 
