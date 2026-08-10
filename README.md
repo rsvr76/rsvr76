@@ -47,7 +47,7 @@ and continuously taking on problems that push me to become a better engineer.
 <img src="https://img.shields.io/badge/🏆_Hackathon_Winner-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🌍_Open_Source_Contributor-059669?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/⚙️_Automation_Minded-EA580C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖_AI_Builder-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_AI_Builder-1D4ED8?style=for-the-badge"/>
 
 </p>
 
@@ -113,7 +113,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 
 <br>
 
-###  Programming Languages
+### 💻 Programming Languages
 
 <p>
 
@@ -125,7 +125,7 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 
 <br>
 
-###  Artificial Intelligence & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 
 <p>
 
@@ -137,7 +137,19 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 
 <br>
 
-###  Backend Development
+### 🧠 LLM & AI Systems
+
+<p>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="48" hspace="6"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="48" hspace="6"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sentence-transformers" height="48" hspace="6"/>
+
+</p>
+
+<br>
+
+### ⚙️ Backend & APIs
 
 <p>
 
@@ -147,26 +159,23 @@ https://github.com/rsvr76/Ocean-Depths-Frontend-Odyssey
 
 <br>
 
-###  Web Development
+### 🔄 CI/CD & Automation
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react" hspace="6"/>
-<img src="https://skillicons.dev/icons?i=typescript" hspace="6"/>
-<img src="https://skillicons.dev/icons?i=html" hspace="6"/>
-<img src="https://skillicons.dev/icons?i=css" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=githubactions" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=docker" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=git" hspace="6"/>
+<img src="https://skillicons.dev/icons?i=github" hspace="6"/>
 
 </p>
 
 <br>
 
-###  Tools & Platforms
+### 🛠 Development Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git" hspace="6"/>
-<img src="https://skillicons.dev/icons?i=github" hspace="6"/>
-<img src="https://skillicons.dev/icons?i=docker" hspace="6"/>
 <img src="https://skillicons.dev/icons?i=linux" hspace="6"/>
 <img src="https://skillicons.dev/icons?i=vscode" hspace="6"/>
 
