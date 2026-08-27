@@ -290,14 +290,17 @@ View Repository →
 <!-- 5. DEVELOPMENT ACTIVITY -->
 <!-- ========================================================= -->
 
-<h2 align="center"> Development Activity</h2>
+<h2 align="center">📈 Development Activity</h2>
 
 <p align="center">
 Building, experimenting, and contributing across software and AI projects.
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rsvr76&bg_color=090C10&color=FFFFFF&line=3B82F6&point=60A5FA&area=true&area_color=2563EB&hide_border=true&title=Development%20Activity&title_color=FFFFFF"/>
+  <img
+    src="https://github-readme-activity-graph-ten-lyart.vercel.app/graph?username=rsvr76&bg_color=090C10&color=FFFFFF&line=3B82F6&point=60A5FA&area=true&area_color=2563EB&hide_border=true&title=Development%20Activity&title_color=FFFFFF"
+    alt="GitHub Development Activity"
+  />
 </p>
 
 <br><br>
