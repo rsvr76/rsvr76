@@ -96,7 +96,7 @@ confidence estimation, and explainability.
 
 <p>
 <a href="https://github.com/rsvr76/CAD-to-Quote-AI-Agent">
-View Repository →
+View Repository 
 </a>
 </p>
 
@@ -129,7 +129,7 @@ through external APIs.
 
 <p>
 <a href="https://github.com/rsvr76/Crisis-Commander">
-View Repository →
+View Repository 
 </a>
 </p>
 
@@ -166,7 +166,7 @@ hybrid neural-rule-based classification.
 
 <p>
 <a href="https://github.com/rsvr76/Novel-Backstory-Consistency-Classification">
-View Repository →
+View Repository 
 </a>
 </p>
 
@@ -199,7 +199,7 @@ stability constraints.
 
 <p>
 <a href="https://github.com/rsvr76/UrbanFloodBench">
-View Repository →
+View Repository 
 </a>
 </p>
 
